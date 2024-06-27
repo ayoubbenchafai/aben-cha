@@ -1,5 +1,4 @@
-[![MasterHead]([https://www.asmiglobalsoftwares.com/assets/img/Web-development.jpg](https://i.pinimg.com/originals/47/01/b6/4701b62972f7b4b42fff4dda761b7b3a.jpg))](https://aben-cha.github.io)
-<h1 align="center">Hi 👋, I'm BEN CHAFAI AYOUB</h1>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/aben-cha" alt="aben-cha's 42 stats" /></a><h1 align="center">Hi 👋, I'm BEN CHAFAI AYOUB</h1>
 <h3 align="center">Web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?w=2000">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aben-cha&label=Profile%20views&color=0e75b6&style=flat" alt="aben-cha" /> </p>
